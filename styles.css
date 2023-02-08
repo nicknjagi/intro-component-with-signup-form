@@ -21,7 +21,9 @@ body {
     background-color: var(--primary-Red)
 }
 main {
-    margin: 5rem 2rem;
+    margin: 5rem auto;
+    padding: 0 1rem;
+    max-width: 450px;
 }
 .sect-1 {
     padding-top: 0.8rem;
@@ -149,7 +151,8 @@ footer {
     }
     main {
         margin: auto;
-        padding: 0 9rem;
+        max-width: 980px;
+        /* padding: 0 2rem; */
         align-items: center;
         display: grid;
         grid-template-columns: 1fr 1fr;
