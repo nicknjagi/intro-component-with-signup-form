@@ -44,7 +44,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [Resource 1](https://zellwk.com/blog/how-to-write-mobile-first-css/) - An article on how to write mobile-first CSS
+- [1.](https://zellwk.com/blog/how-to-write-mobile-first-css/) - An article on how to write mobile-first CSS
+- [2.](https://www.internetingishard.com/html-and-css/flexbox/) - This Flexbox tutorial is a friendly tutorial for modern CSS layouts by Interneting Is Hard.
 
 ## Author
 
